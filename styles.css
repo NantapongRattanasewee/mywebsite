@@ -1,0 +1,26 @@
+ <link rel="stylesheet" href="C:\Users\user\Desktop\GE344 Lab\Lab4 HTML&CSS\CSS\styles.css">
+ <!--ฟอนต์ตัวอักษร-->
+     <link rel="stylesheet"
+           href="https://fonts.googleapis.com/css?family=Kanit">
+           <style>
+             h1{
+               font-family: Kanit;
+               font-size: 36px;
+               color: #711414
+             }
+             h2{
+               font-family: Kanit;
+               font-size: 28px;
+               color: #711414
+             }
+             h3{
+               font-family: Kanit;
+               font-size: 18px;
+               color: #711414
+             }
+             body{
+               font-family: Kanit;
+               font-size: 18px;
+               color: #777777
+             }
+           </style>
